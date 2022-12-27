@@ -1,0 +1,20 @@
+{
+    "name": "afeen/cbs",
+    "autoload": {
+        "psr-4": {
+            "Afeen\\Cbs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Afeen843",
+            "email": "afeenmuhammad843@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+       "psr-4": {
+           "Inc\\": "inc/classes"
+       }
+    }
+}
